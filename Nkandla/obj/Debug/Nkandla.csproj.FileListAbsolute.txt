@@ -1,0 +1,6 @@
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.exe.config
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.exe
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.pdb
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.exe
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.pdb
